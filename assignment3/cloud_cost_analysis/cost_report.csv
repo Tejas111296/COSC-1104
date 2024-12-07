@@ -1,0 +1,7 @@
+resource_id,resource,service,usage_hours,rate_per_hour,total_cost
+1234567890abcdef0,WebServer1,EC2,120,0.05,6
+0987654321abcdef0,WebServer2,EC2,200,0.05,10
+s3-bucket-1,StorageBucket1,S3,500,0.023,11.5
+s3-bucket-2,StorageBucket2,S3,300,0.023,6.9
+rds-db-1,DatabaseInstance,RDS,250,0.1,25
+lambda-function-1,LambdaFunction1,Lambda,100,0.00025,0.025
