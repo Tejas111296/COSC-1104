@@ -1,0 +1,6 @@
+version: 0.2
+phases:
+  build:
+    commands:
+      - echo "This build will fail"
+      - exit 1 # Force failure
