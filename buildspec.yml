@@ -2,5 +2,5 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo "This build will successful"
-      - exit 1 # Force failure
+      - echo "This build will fail!"
+      - exit 1 # This command causes failure
